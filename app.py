@@ -57,7 +57,7 @@ model = load_model()
 st.title("Classification of Renal Fibrosis with Shear Wave Elastography Image")  # 
 st.markdown("""
 <style>
-    /* 自定义结果字体样式 */
+    /*  */
     .big-font {
         font-size:24px !important;
         color: #FF4B4B;
